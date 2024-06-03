@@ -1,3 +1,4 @@
+<font face="monospace" color="#808080" align="left>
 <pre>
   ___________ ________        __ __ ________  _______________   __
  /_  __/ ___//  _/ __ \      / //_// ____/\ \/ / ____/ ____/ | / /
@@ -13,3 +14,4 @@ src
 Visual Basic 6.0
 PHP V8.X [FOR SOON]
 </pre>
+<font>
